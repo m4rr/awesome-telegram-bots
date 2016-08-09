@@ -16,9 +16,17 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 ## Examples
 
+### DotNET
+
++ [MrRoundRobin-example](https://github.com/MrRoundRobin/telegram.bot.examples) - example MrRoundRobin-bot
+
 ### Go
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
+
+### Ruby
+
++ [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX
 
 ### Rust
 + [git4telegram](https://github.com/friktor/git4telegram) - Telegram bot for work with git
@@ -30,6 +38,11 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
 
 ## Libraries
+
+### DotNET
+
++ [MrRoundRobin-bot](https://github.com/MrRoundRobin/telegram.bot) - CSharp library to talk to Telegrams Bot API
++ [TLSharp](https://github.com/sochix/TLSharp) - Telegram client library implemented in CSharp, only basic functionality is currently implemented
 
 ### Go
 
@@ -63,7 +76,6 @@ Also take a minute and have a look at some interesting channels and groups in [a
 ## Ruby
 
 + [ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit) - Ruby Telegram boilerplate for creating awesome bots
-+ [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX.
 
 ## Tools
 
